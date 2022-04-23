@@ -4,7 +4,7 @@
 
 - 👷🏿  Java Developer Jr. at SORTech.
 - 💻  Working with Web and Mobile Development.
-- 📱  My main stack is Java.
+- ⚙  My main stack is Java.
 </br></br>
 
 ### Reach me at:
