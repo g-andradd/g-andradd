@@ -3,7 +3,7 @@
 </br>
 
 - 👷🏿  Java Developer Jr. at SORTech.
-- 💻  Working with Web and Mobile Development.
+- 💻  Working with Web development.
 - ⚙  My main stack is Java.
 </br></br>
 
